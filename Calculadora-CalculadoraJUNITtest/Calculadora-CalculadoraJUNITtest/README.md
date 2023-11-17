@@ -1,8 +1,6 @@
 # Calculadora
-## Descrição
-O jogo foi desenvolvido no Android Studio utilizando a biblioteca libGDX e consiste em uma replica da versão do jogo Flappy Bird.
-
-## Mecânicas
-Foram feitas as 4 funções basicas de uma calculadore, e são feitas multiplos testes para averiguar se estão completas e funcionais.
-
-## Última atualização 21/09/23
+Essa foi uma atividade feita utilizando a biblioteca JUNITY 5, que é utilizado para criar e gerenciar codigo em torno de classes de teste.
+## Descrição:
+O código é um sistema simples de calculadora, com metodos que replicam operações basicas de matematica (somar, subtrair, multiplicar e dividir).
+## Documentação: 
+Caso queira ler mais afundo sobre o codigo, ele se apresenta inteiramente documentado, assim como disponibiliza uma pasta chamada doc com varios arquivos documentando mais afundo o projeto  
